@@ -1,0 +1,17 @@
+[
+    {
+        "type": "Dictionary",
+        "value": [
+            {
+                "key": {
+                    "type": "String",
+                    "value": "foo"
+                },
+                "value": {
+                    "type": "String",
+                    "value": "bar"
+                }
+            }
+        ]
+    }
+]
